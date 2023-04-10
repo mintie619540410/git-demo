@@ -2,3 +2,4 @@ test hello,git
 update hello.txt
 test hot-fix branch
 edit master hello.txt
+edit hot-fix commit
